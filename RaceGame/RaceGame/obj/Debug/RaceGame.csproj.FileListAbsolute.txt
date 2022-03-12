@@ -1,0 +1,10 @@
+C:\Users\furka\source\repos\C#\RaceGame\RaceGame\bin\Debug\RaceGame.exe.config
+C:\Users\furka\source\repos\C#\RaceGame\RaceGame\bin\Debug\RaceGame.exe
+C:\Users\furka\source\repos\C#\RaceGame\RaceGame\bin\Debug\RaceGame.pdb
+C:\Users\furka\source\repos\C#\RaceGame\RaceGame\obj\Debug\RaceGame.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\C#\RaceGame\RaceGame\obj\Debug\RaceGame.Form1.resources
+C:\Users\furka\source\repos\C#\RaceGame\RaceGame\obj\Debug\RaceGame.Properties.Resources.resources
+C:\Users\furka\source\repos\C#\RaceGame\RaceGame\obj\Debug\RaceGame.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\C#\RaceGame\RaceGame\obj\Debug\RaceGame.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\C#\RaceGame\RaceGame\obj\Debug\RaceGame.exe
+C:\Users\furka\source\repos\C#\RaceGame\RaceGame\obj\Debug\RaceGame.pdb
